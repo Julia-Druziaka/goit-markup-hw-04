@@ -411,6 +411,9 @@ img {
 .conty {
   background-color: #ffffff;
 }
+.conty:hover {
+  transform: translateY(0%);
+}
 
 .taxty {
   font-family: "Roboto", sans-serif;
@@ -419,9 +422,6 @@ img {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
-}
-.taxty:hover {
-  transform: translateY(0%);
 }
 
 .page-footer {
