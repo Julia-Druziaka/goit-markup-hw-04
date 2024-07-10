@@ -420,6 +420,9 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.taxty:hover {
+  transform: translateY(0%);
+}
 
 .page-footer {
   background-color: #2e2f42;
