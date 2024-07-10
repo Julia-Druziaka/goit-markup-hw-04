@@ -451,6 +451,10 @@ img {
   align-items: baseline;
   margin-right: 120px;
 }
+
+.basement-container {
+  margin-right: 120px;
+}
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
@@ -511,6 +515,10 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.basement-link:hover {
+  background-color: #31d0aa;
 }
 
 .basement-link:focus {
